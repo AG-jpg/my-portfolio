@@ -9,7 +9,7 @@ const BambaCard = () => {
     <CardMedia
       component="img"
       height="150"
-      image={"https://aldoguzman.design/wp-content/uploads/2022/11/bambasadventure.png"}
+      image={"https://aldoguzman.design/wp-content/uploads/2022/11/bambasadventure.webp"}
     />
     <CardContent>
       <Typography style={{
